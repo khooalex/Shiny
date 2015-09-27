@@ -1,0 +1,27 @@
+---
+title: "BMI calculator"
+output: html_document
+---
+## What is BMI
+
+BMI calculator is used to calculate Body Mass Index (BMI) according to adult's height and weight.
+
+
+BMI (Body Mass Index) is a measurement of body fat based on height and weight that applies to both men and women between the ages of 18 and 65 years. 
+
+
+BMI does not take into account other factors which may affect a persons height or weight:
+
+- Body builders and athletes with a high proportion of muscle mass.
+-	The elderly (whose height and muscle mass may fall over time), frail people, and those affected by certain illnesses.
+-	Lactating or pregnant women.
+-	Children and teenagers who have not reached physical maturity and are still growing.
+-	A tendency for natural differences in height and weight ratios between races.
+
+##How to use BMI App
+- Select which measurement system you use.
+- Input height and weight.
+- Click submit.
+- It will tell your BMI.
+
+
